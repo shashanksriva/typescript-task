@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.passed {
+  font-weight: bold;
+  color: green;
+}
+.failed {
+  font-weight: bold;
+  color: red;
+}
